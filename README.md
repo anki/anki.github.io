@@ -1,6 +1,6 @@
 # Anki Developer Website
 
-This is the data for the Anki Developer site.
+This repository contains the content for the Anki Developer site.
 It is auto-generated from markdown source files
 using [jekyll](http://jekyllrb.com/), a static site generator.
 
